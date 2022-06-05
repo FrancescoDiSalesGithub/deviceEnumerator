@@ -1,6 +1,10 @@
 # deviceEnumerator
 list all the devices in a linux system
 
+# how to compile
+
+Use eclipse c++ ide and use as compiler Linux GCC
+
 # Donation
 
 If you want to support me donate monero coins at:
