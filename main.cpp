@@ -40,6 +40,8 @@ int main()
 		   }
 
 	}
+	
+	fclose(mountTable);
 
 
 		for(int i=0;i<iteratorDevice;i++)
