@@ -42,7 +42,7 @@ int main()
 		}
 
 
-		for(int i=0;i<iteratorDevice;j++)
+		for(int i=0;i<iteratorDevice;i++)
 		{
 			cout<<devices[i]<<endl;
 		}
