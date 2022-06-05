@@ -12,7 +12,7 @@
 #include<cstring>
 #include<mntent.h>
 
-#define MAX_DEVICES 10
+#define MAX_DEVICES 10000
 
 using namespace std;
 
